@@ -5,9 +5,11 @@
 ## Prerequisites
 
 -install llama-index 
+    
     pip install llama-index
 
 -ADD .env file 
+    
     GOOGLE_API_KEY="YOUR GOOGLE API KEY"
 
 
