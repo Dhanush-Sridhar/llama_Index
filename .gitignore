@@ -1,0 +1,20 @@
+
+
+# python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# venv
+myenv/*
+
+# env
+.env
+
+
+#docFolder
+docFolder/
+
+*.py
